@@ -47,8 +47,8 @@ The `Accordian` component can be used as follows:
 
 ```jsx
 import Accordian from "./components/Accordian";
-function App() {
-	return <Accordian />;
+const App = () => {
+    return <App />
 }
 ```
 
